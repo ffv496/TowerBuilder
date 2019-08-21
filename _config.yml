@@ -30,7 +30,7 @@ bods_url: ""
 
 graph:
   # The name of your graphic
-  - title: "Visualización de compra de la Leche"
+  - title: "La Leche Prometida"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
