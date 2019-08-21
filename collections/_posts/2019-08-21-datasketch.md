@@ -3,9 +3,10 @@ layout: post
 title:  "Resumen de Vía Lactea" 
 author: "Datasketch"
 ---
+# Vía Lactea
 Vía Láctea recopila toda la información de producción de leche en Colombia, desde la cantidad de ganado productor existente en el país, pasando por lo que ganan los productores por litro, hasta las exportaciones e importaciones de la misma. Además hace una indagación de las empresas que más contratan con el Estado colombiano en temas de leche y aquellas que han contratado para el Programa de Alimentación Escolar del país, especialmente rastrea las redes de poder de los principales miembros de las mismas.
 
-Metodología
+## Metodología
 
 Este reportaje forma parte de la investigación regional "La leche prometida", liderada por la red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Red PALTA), que integra La Diaria de Uruguay, El Faro de El Salvador, OjoPublico de Perú, Datasketch  de Colombia, La Nación de Argentina, PODER de Mexico y OjoConMiPisto de Guatemala.
 
