@@ -1,14 +1,9 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-# TITLE FOR THE ABOUT PAGE
+# ACERCA DE
 
-## Subtitle
-
-This text is a paragraph.
-This won't be another paragraph, it will join the line above it.
-
-This will be another paragraph, as it has a blank line above it.s
+Esta visualización forma parte de la investigación regional "La leche prometida", liderada por la red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Red PALTA), que integra La Diaria de Uruguay, El Faro de El Salvador, Ojo-Publico.com de Perú, Datasketch de Colombia, La Nación de Argentina, PODER de Mexico y OjoConMiPisto de Guatemala.
